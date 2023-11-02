@@ -1,1 +1,1 @@
-# ALX School - 0x00-hello_world
+0x1A-hash_tables
